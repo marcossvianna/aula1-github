@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/home/msv/Documentos/ws_eclipse/Section_12_Nivelamento_Git_Github/.metadata/.plugins/org.eclipse.jdt.core
+2039507426.index
